@@ -28,7 +28,7 @@ class CSVConverter
 		
 		@counter += 1
 	end
-	book.write '/home/itadmin/apps/ruby/dashboard.xls'
+	book.write '/home/itadmin/apps/ruby/csvConverter/dashboard.xls'
   end
 
 end
